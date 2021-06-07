@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78122eb5-5e74-4872-b81e-4884f97ea879" name="Default Changelist" comment="" />
+    <list default="true" id="78122eb5-5e74-4872-b81e-4884f97ea879" name="Default Changelist" comment="Added more selenium concepts">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,21 +32,70 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
-    <property name="settings.editor.selected.configurable" value="build.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="LocatorFacebbok.test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.EcommerceSite.eCommerceSiteOperations">
+    <configuration name="Alerts.alertsConcepts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LocatorFacebbok" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="Alerts" />
+      <option name="METHOD_NAME" value="alertsConcepts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignments.assignment3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Assignments" />
+      <option name="METHOD_NAME" value="assignment3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calander.calanderConcepts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Calander" />
+      <option name="METHOD_NAME" value="calanderConcepts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcommerceSite.eCommerceSiteOperations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EcommerceSite" />
+      <option name="METHOD_NAME" value="eCommerceSiteOperations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndToEnd.spicejetE2E" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EndToEnd" />
+      <option name="METHOD_NAME" value="spicejetE2E" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -52,7 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LocatorFacebbok.test" />
+        <item itemvalue="TestNG.EcommerceSite.eCommerceSiteOperations" />
+        <item itemvalue="TestNG.Assignments.assignment3" />
+        <item itemvalue="TestNG.Alerts.alertsConcepts" />
+        <item itemvalue="TestNG.EndToEnd.spicejetE2E" />
+        <item itemvalue="TestNG.Calander.calanderConcepts" />
       </list>
     </recent_temporary>
   </component>
@@ -65,6 +122,14 @@
       <option name="presentableId" value="Default" />
       <updated>1622631600576</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added more selenium concepts">
+      <created>1623089902714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623089902714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +142,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more selenium concepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more selenium concepts" />
   </component>
 </project>
