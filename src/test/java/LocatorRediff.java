@@ -1,6 +1,5 @@
-/*
- * Developed by Anand Singh on 30/05/21, 8:59 PM.
- * Last modified 30/05/21, 8:59 PM.
+/**
+ * Developed by Anand Singh on 04/Jun/2021, 12:51 PM.
  * Copyright (c) 2021. All rights reserved.
  */
 
@@ -12,7 +11,7 @@ import org.testng.annotations.Test;
 public class LocatorRediff {
 
     @Test
-    public void test(){
+    public void customLocators(){
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
         WebDriver driver = new ChromeDriver();
 

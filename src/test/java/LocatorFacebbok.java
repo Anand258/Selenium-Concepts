@@ -1,7 +1,6 @@
-/*
- * Developed by Anand Singh on 24/05/21, 7:47 PM.
- * Last modified 24/05/21, 7:47 PM.
- * Copyright (c) 2021. All rights reserved.
+/**
+  Developed by Anand Singh on 04/Jun/2021, 12:51 PM.
+  Copyright (c) 2021. All rights reserved.
  */
 
 import org.openqa.selenium.By;
@@ -11,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class LocatorFacebbok {
     @Test
-    public void test(){
+    public void locators(){
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
         WebDriver driver = new ChromeDriver();
 

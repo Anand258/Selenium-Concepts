@@ -1,6 +1,5 @@
-/*
- * Developed by Anand Singh on 23/02/21, 8:29 PM.
- * Last modified 09/02/21, 8:13 PM.
+/**
+ * Developed by Anand Singh on 04/Jun/2021, 12:51 PM.
  * Copyright (c) 2021. All rights reserved.
  */
 
@@ -10,9 +9,10 @@ import org.testng.annotations.Test;
 
 public class Basic {
     @Test
-    public void test(){
+    public void basicConcepts(){
         System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
         WebDriver driver = new ChromeDriver();
+
         driver.get("http://www.google.com");    // To open the url on browser
 
         System.out.println(driver.getTitle());  // To get the page title
@@ -33,4 +33,6 @@ public class Basic {
 
         driver.quit(); //close all the browser open by selenium
     }
+
+
 }
