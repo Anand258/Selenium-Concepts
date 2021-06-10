@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Assignments.assignment5">
+  <component name="RunManager" selected="TestNG.ActionInteraction.actionsConcept">
     <configuration name="ActionInteraction.actionsConcept" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ActionInteraction.actionsConcept" />
         <item itemvalue="TestNG.Assignments.assignment5" />
         <item itemvalue="TestNG.Frames.framesConcept" />
         <item itemvalue="TestNG.Assignments.assignment4" />
         <item itemvalue="TestNG.WindowHandle.windowHandleConcept" />
-        <item itemvalue="TestNG.ActionInteraction.actionsConcept" />
       </list>
     </recent_temporary>
   </component>
