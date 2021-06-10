@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78122eb5-5e74-4872-b81e-4884f97ea879" name="Default Changelist" comment="Added more selenium concepts">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WindowHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EcommerceSite.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +47,12 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.EcommerceSite.eCommerceSiteOperations">
-    <configuration name="Alerts.alertsConcepts" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Assignments.assignment5">
+    <configuration name="ActionInteraction.actionsConcept" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Alerts" />
-      <option name="METHOD_NAME" value="alertsConcepts" />
+      <option name="MAIN_CLASS_NAME" value="ActionInteraction" />
+      <option name="METHOD_NAME" value="actionsConcept" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -55,11 +60,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignments.assignment3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignments.assignment4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Assignments" />
-      <option name="METHOD_NAME" value="assignment3" />
+      <option name="METHOD_NAME" value="assignment4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,11 +72,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calander.calanderConcepts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Assignments.assignment5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Calander" />
-      <option name="METHOD_NAME" value="calanderConcepts" />
+      <option name="MAIN_CLASS_NAME" value="Assignments" />
+      <option name="METHOD_NAME" value="assignment5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,11 +84,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EcommerceSite.eCommerceSiteOperations" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Frames.framesConcept" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EcommerceSite" />
-      <option name="METHOD_NAME" value="eCommerceSiteOperations" />
+      <option name="MAIN_CLASS_NAME" value="Frames" />
+      <option name="METHOD_NAME" value="framesConcept" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -91,11 +96,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndToEnd.spicejetE2E" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WindowHandle.windowHandleConcept" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EndToEnd" />
-      <option name="METHOD_NAME" value="spicejetE2E" />
+      <option name="MAIN_CLASS_NAME" value="WindowHandle" />
+      <option name="METHOD_NAME" value="windowHandleConcept" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.EcommerceSite.eCommerceSiteOperations" />
-        <item itemvalue="TestNG.Assignments.assignment3" />
-        <item itemvalue="TestNG.Alerts.alertsConcepts" />
-        <item itemvalue="TestNG.EndToEnd.spicejetE2E" />
-        <item itemvalue="TestNG.Calander.calanderConcepts" />
+        <item itemvalue="TestNG.Assignments.assignment5" />
+        <item itemvalue="TestNG.Frames.framesConcept" />
+        <item itemvalue="TestNG.Assignments.assignment4" />
+        <item itemvalue="TestNG.WindowHandle.windowHandleConcept" />
+        <item itemvalue="TestNG.ActionInteraction.actionsConcept" />
       </list>
     </recent_temporary>
   </component>
