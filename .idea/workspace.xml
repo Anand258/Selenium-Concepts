@@ -5,14 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78122eb5-5e74-4872-b81e-4884f97ea879" name="Default Changelist" comment="Added more selenium concepts">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ActionInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FluentWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Synchronization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrokenLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CertificationHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Miscellaneous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumNewFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StreamConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebTableSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/seleniumTutorial.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Assignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EcommerceSite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Calander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Calander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Scroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +73,12 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ActionInteraction.actionsConcept">
-    <configuration name="ActionInteraction.actionsConcept" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTutorial" />
+  <component name="RunManager" selected="TestNG.SeleniumNewFeatures.getElementDimentions">
+    <configuration name="SeleniumNewFeatures.elementScreenShot" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Concepts" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ActionInteraction" />
-      <option name="METHOD_NAME" value="actionsConcept" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumNewFeatures" />
+      <option name="METHOD_NAME" value="elementScreenShot" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -60,11 +86,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignments.assignment4" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTutorial" />
+    <configuration name="SeleniumNewFeatures.getElementDimentions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Concepts" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Assignments" />
-      <option name="METHOD_NAME" value="assignment4" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumNewFeatures" />
+      <option name="METHOD_NAME" value="getElementDimentions" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -72,11 +98,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignments.assignment5" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTutorial" />
+    <configuration name="SeleniumNewFeatures.multiWindow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Concepts" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Assignments" />
-      <option name="METHOD_NAME" value="assignment5" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumNewFeatures" />
+      <option name="METHOD_NAME" value="multiWindow" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -84,11 +110,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frames.framesConcept" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTutorial" />
+    <configuration name="SeleniumNewFeatures.relativeLocators" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Concepts" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Frames" />
-      <option name="METHOD_NAME" value="framesConcept" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumNewFeatures" />
+      <option name="METHOD_NAME" value="relativeLocators" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -96,11 +122,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle.windowHandleConcept" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTutorial" />
+    <configuration name="WebTableSorting.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Concepts" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WindowHandle" />
-      <option name="METHOD_NAME" value="windowHandleConcept" />
+      <option name="MAIN_CLASS_NAME" value="WebTableSorting" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -110,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ActionInteraction.actionsConcept" />
-        <item itemvalue="TestNG.Assignments.assignment5" />
-        <item itemvalue="TestNG.Frames.framesConcept" />
-        <item itemvalue="TestNG.Assignments.assignment4" />
-        <item itemvalue="TestNG.WindowHandle.windowHandleConcept" />
+        <item itemvalue="TestNG.SeleniumNewFeatures.getElementDimentions" />
+        <item itemvalue="TestNG.SeleniumNewFeatures.elementScreenShot" />
+        <item itemvalue="TestNG.SeleniumNewFeatures.multiWindow" />
+        <item itemvalue="TestNG.SeleniumNewFeatures.relativeLocators" />
+        <item itemvalue="TestNG.WebTableSorting.test" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +178,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added more selenium concepts" />
     <option name="LAST_COMMIT_MESSAGE" value="Added more selenium concepts" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="driver" />
+        <watch expression="driver.findElement(By.cssSelector(&quot;.totalAmount&quot;))" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/test/java/Scroll.java" line="29">
+        <watch expression="driver" />
+      </inline-watch>
+    </watches-manager>
   </component>
 </project>
