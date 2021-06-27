@@ -1,1 +1,17 @@
-# seleniumTutorial
+# Selenium Concepts :
+-Basics<br/>
+-Different Locators<br/>
+-Relative Vs Absolute Path<br/>
+-Parent-Child Traversal<br/>
+-Child-Parent Traversal<br/>
+-Sibling Traversal<br/>
+-Check box<br/>
+-Calander<br/>
+-Alerts<br/>
+-Static Drop Down<br/>
+-Dynamic Drop Down<br/>
+-Auto Suggestive Drop Down<br/>
+-Synchronization<br/>
+-Fluent Wait<br/>
+-Frames<br/>
+-Window Handle<br/>
